@@ -40,5 +40,26 @@
     }
   },
   "logoImage":""
+},
+{
+  "name": "Cove View Speedway",
+  "contact": {
+    "address": {
+      "street": "342 Cove View Lane",
+      "city": "Warfordsburg",
+      "state": "PA",
+      "zip": "17267"
+    },
+    "contactName":"Mark A. Palmer",
+    "phone": "717-294-6568",
+    "email": "KartCoveView@yahoo.com ",
+    "website": "http://coveviewspeedway.com/",
+    "social":{
+      "facebook":"https://www.facebook.com/CoveViewSpeedway/",
+      "twitter":"",
+      "googleplus":""
+    }
+  },
+  "logoImage":""
 }
 ]
