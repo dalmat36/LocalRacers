@@ -1,0 +1,44 @@
+[
+  {
+  "name": "Red Rock Raceway",
+  "contact": {
+    "address": {
+      "street": "555 Deichland Road",
+      "city": "Claysburg",
+      "state": "PA",
+      "zip": "16625"
+    },
+    "contactName":"Troy Aikey",
+    "phone": "814-285-2077",
+    "email": "",
+    "website": "http://www.redrockraceways.com/",
+    "social":{
+      "facebook":"https://www.facebook.com/Red-Rock-Raceways-215083415336098/",
+      "twitter":"",
+      "googleplus":""
+    }
+  },
+  "logoImage":""
+},
+{
+  "name": "Flat Run Speedway",
+  "contact": {
+    "address": {
+      "street": "220 otter lane",
+      "city": "Morrisdale",
+      "state": "PA",
+      "zip": "16858"
+    },
+    "contactName":"",
+    "phone": "814-251-4378",
+    "email": "krtracer57@hotmail.com",
+    "website": "http://flatrunspeedway.weebly.com/",
+    "social":{
+      "facebook":"https://www.facebook.com/flat.speedway/",
+      "twitter":"",
+      "googleplus":""
+    }
+  },
+  "logoImage":""
+}
+]
