@@ -124,5 +124,26 @@
     }
   },
   "logoImage":""
+},
+{
+  "name": "Goodhope Speedway",
+  "contact": {
+    "address": {
+      "street": "2650 Columbiana Rd",
+      "city": "New Springfield",
+      "state": "PA",
+      "zip": "44443"
+    },
+    "contactName":"Dave Rutana",
+    "phone": "814-590-4139",
+    "email": "dwrutana@msn.com",
+    "website": "http://www.goodhopespeedway.com/",
+    "social":{
+      "facebook":"https://www.facebook.com/GoodhopeSpeedway/",
+      "twitter":"",
+      "googleplus":""
+    }
+  },
+  "logoImage":""
 }
 ]
