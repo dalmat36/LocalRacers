@@ -250,5 +250,26 @@
     }
   },
   "logoImage":""
+},
+{
+  "name": "Greenwood Valley Action Tracks",
+  "contact": {
+    "address": {
+      "street": "179 Bottom Rd",
+      "city": "Orangeville",
+      "state": "PA",
+      "zip": "17859"
+    },
+    "contactName":"",
+    "phone": "570-458-5142",
+    "email": "info@gvat4g.com",
+    "website": "http://www.greenwoodvalleyactiontracks.com/",
+    "social":{
+      "facebook":"https://www.facebook.com/Greenwood-Valley-Action-Tracks-173451222692869/",
+      "twitter":"",
+      "googleplus":""
+    }
+  },
+  "logoImage":""
 }
 ]
