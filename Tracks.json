@@ -229,5 +229,26 @@
     }
   },
   "logoImage":""
+},
+{
+  "name": "Shellhammers Speedway",
+  "contact": {
+    "address": {
+      "street": "1072 Mohrsville Rd",
+      "city": "Shoemakersville",
+      "state": "PA",
+      "zip": "19555"
+    },
+    "contactName":"",
+    "phone": "610-926-1929",
+    "email": "msgokart1@aol.com",
+    "website": "http://www.shellhammerspeedway.com/",
+    "social":{
+      "facebook":"https://www.facebook.com/pennscreek.racewaypark",
+      "twitter":"",
+      "googleplus":""
+    }
+  },
+  "logoImage":""
 }
 ]
