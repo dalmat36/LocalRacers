@@ -52,10 +52,31 @@
     },
     "contactName":"Mark A. Palmer",
     "phone": "717-294-6568",
-    "email": "KartCoveView@yahoo.com ",
+    "email": "KartCoveView@yahoo.com",
     "website": "http://coveviewspeedway.com/",
     "social":{
       "facebook":"https://www.facebook.com/CoveViewSpeedway/",
+      "twitter":"",
+      "googleplus":""
+    }
+  },
+  "logoImage":""
+},
+{
+  "name": "Blairsville Speedway",
+  "contact": {
+    "address": {
+      "street": "5023 Route 217 North",
+      "city": "Blairsville",
+      "state": "PA",
+      "zip": "15717"
+    },
+    "contactName":"Mark A. Palmer",
+    "phone": "412-551-1400",
+    "email": "pm@petemillermotors.com",
+    "website": "http://www.blairsvillespeedway.com/",
+    "social":{
+      "facebook":"https://www.facebook.com/Blairsville-Speedway-135987913191950/",
       "twitter":"",
       "googleplus":""
     }
