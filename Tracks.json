@@ -82,5 +82,26 @@
     }
   },
   "logoImage":""
+},
+{
+  "name": "Selinsgove Speedway",
+  "contact": {
+    "address": {
+      "street": "47 Sand Hill Rd",
+      "city": "Selinsgrove ",
+      "state": "PA",
+      "zip": "17870"
+    },
+    "contactName":"",
+    "phone": "570-374-2266",
+    "email": "pm@petemillermotors.com",
+    "website": "http://www.selinsgrovespeedway.com/",
+    "social":{
+      "facebook":"https://www.facebook.com/Selinsgrove-Speedway-198833163496169/",
+      "twitter":"https://twitter.com/RaceSelinsgrove",
+      "googleplus":""
+    }
+  },
+  "logoImage":""
 }
 ]
