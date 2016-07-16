@@ -208,5 +208,26 @@
     }
   },
   "logoImage":""
+},
+{
+  "name": "Penns Creek Raceway Park",
+  "contact": {
+    "address": {
+      "street": "1210 Mountain Road",
+      "city": "Middleburg",
+      "state": "PA",
+      "zip": "17842"
+    },
+    "contactName":"",
+    "phone": "570-556-7462",
+    "email": "karter8@earthlink.net",
+    "website": "http://www.pennscreekracewaypark.com/",
+    "social":{
+      "facebook":"https://www.facebook.com/pennscreek.racewaypark",
+      "twitter":"",
+      "googleplus":""
+    }
+  },
+  "logoImage":""
 }
 ]
