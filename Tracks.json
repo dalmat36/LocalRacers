@@ -187,5 +187,26 @@
     }
   },
   "logoImage":""
+},
+{
+  "name": "Snydersville Raceway",
+  "contact": {
+    "address": {
+      "street": "2274 Storm Road",
+      "city": "Stroudsburg",
+      "state": "PA",
+      "zip": "18360"
+    },
+    "contactName":"",
+    "phone": "610-381-3787",
+    "email": "syndersvilleraceway@yahoo.com",
+    "website": "http://www.snydersvilleraceway.com/",
+    "social":{
+      "facebook":"https://www.facebook.com/svilleraceway/",
+      "twitter":"https://twitter.com/svilleraceway",
+      "googleplus":""
+    }
+  },
+  "logoImage":""
 }
 ]
