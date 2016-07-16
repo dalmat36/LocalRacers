@@ -88,7 +88,7 @@
   "contact": {
     "address": {
       "street": "47 Sand Hill Rd",
-      "city": "Selinsgrove ",
+      "city": "Selinsgrove",
       "state": "PA",
       "zip": "17870"
     },
@@ -99,6 +99,27 @@
     "social":{
       "facebook":"https://www.facebook.com/Selinsgrove-Speedway-198833163496169/",
       "twitter":"https://twitter.com/RaceSelinsgrove",
+      "googleplus":""
+    }
+  },
+  "logoImage":""
+},
+{
+  "name": "Race-1 Speedway",
+  "contact": {
+    "address": {
+      "street": "1 Fox Farm Road",
+      "city": "Dubois",
+      "state": "PA",
+      "zip": "15801"
+    },
+    "contactName":"",
+    "phone": "814-590-4139",
+    "email": "Race-1@comcast.net",
+    "website": "http://www.race1info.com/",
+    "social":{
+      "facebook":"",
+      "twitter":"",
       "googleplus":""
     }
   },
