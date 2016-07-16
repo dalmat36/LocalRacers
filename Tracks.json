@@ -271,5 +271,26 @@
     }
   },
   "logoImage":""
+},
+{
+  "name": "Naugle Speedway",
+  "contact": {
+    "address": {
+      "street": "238 Pickens Road",
+      "city": "Aliquippa",
+      "state": "PA",
+      "zip": "15001"
+    },
+    "contactName":"Ed Naugle",
+    "phone": "724-869-3359",
+    "email": "edwardnaugle@aol.com",
+    "website": "http://www.nauglespeedway.com/",
+    "social":{
+      "facebook":"https://www.facebook.com/pages/Naugle-Speedway/325119114208608",
+      "twitter":"",
+      "googleplus":""
+    }
+  },
+  "logoImage":""
 }
 ]
