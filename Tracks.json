@@ -292,5 +292,26 @@
     }
   },
   "logoImage":""
+},
+{
+  "name": "Eriez Speedway",
+  "contact": {
+    "address": {
+      "street": "9821 Sampson Rd",
+      "city": "Erie",
+      "state": "PA",
+      "zip": "16509"
+    },
+    "contactName":"",
+    "phone": "814-434-4370",
+    "email": "",
+    "website": "http://eriez-speedway.com/",
+    "social":{
+      "facebook":"https://www.facebook.com/EriezSpeedway/",
+      "twitter":"https://twitter.com/eriezspeedway1",
+      "googleplus":""
+    }
+  },
+  "logoImage":""
 }
 ]
