@@ -145,5 +145,26 @@
     }
   },
   "logoImage":""
+},
+{
+  "name": "Stateline Speedway",
+  "contact": {
+    "address": {
+      "street": "4150 Kortwright Rd",
+      "city": "Jamestown",
+      "state": "NY",
+      "zip": "14701"
+    },
+    "contactName":"",
+    "phone": "(716) 720-2403",
+    "email": "statelinemotorsportsparkinc@gmail.com.",
+    "website": "http://www.newstatelinespeedway.com/",
+    "social":{
+      "facebook":"https://www.facebook.com/newstatelinespeedwaybustiNY/",
+      "twitter":"",
+      "googleplus":""
+    }
+  },
+  "logoImage":""
 }
 ]
