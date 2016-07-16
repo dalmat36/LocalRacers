@@ -157,10 +157,31 @@
     },
     "contactName":"",
     "phone": "(716) 720-2403",
-    "email": "statelinemotorsportsparkinc@gmail.com.",
+    "email": "statelinemotorsportsparkinc@gmail.com",
     "website": "http://www.newstatelinespeedway.com/",
     "social":{
       "facebook":"https://www.facebook.com/newstatelinespeedwaybustiNY/",
+      "twitter":"",
+      "googleplus":""
+    }
+  },
+  "logoImage":""
+},
+{
+  "name": "Slippery Rock Raceway",
+  "contact": {
+    "address": {
+      "street": "Cemetary Rd",
+      "city": "Slippery Rock",
+      "state": "PA",
+      "zip": "16057"
+    },
+    "contactName":"Mike McFeaters",
+    "phone": "724-794-4971",
+    "email": "srraceway@yahoo.com",
+    "website": "http://www.slipperrockracewayinc.com/",
+    "social":{
+      "facebook":"https://www.facebook.com/Slipperyrockracewayinc/",
       "twitter":"",
       "googleplus":""
     }
