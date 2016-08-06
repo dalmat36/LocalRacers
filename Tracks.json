@@ -1,6 +1,11 @@
 [
   {
   "name": "Red Rock Raceway",
+  "trackDetails":{
+    "type":"Oval",
+    "length":"1/8 Mile",
+    "surface":"Dirt / Clay"
+  },
   "contact": {
     "address": {
       "street": "555 Deichland Road",
@@ -18,10 +23,15 @@
       "googleplus":""
     }
   },
-  "logoImage":""
+  "logoImage":"data/TrackImages/RedRockRacwaysLogo.png"
 },
 {
   "name": "Flat Run Speedway",
+    "trackDetails":{
+    "type":"Oval",
+    "length":"1/5 Mile",
+    "surface":"Dirt / Clay"
+  },
   "contact": {
     "address": {
       "street": "220 otter lane",
@@ -39,10 +49,15 @@
       "googleplus":""
     }
   },
-  "logoImage":""
+  "logoImage":"data/TrackImages/FlatRunSpeedwayLogo.png"
 },
 {
   "name": "Cove View Speedway",
+    "trackDetails":{
+    "type":"Oval",
+    "length":"1/8 Mile",
+    "surface":"Dirt / Clay"
+  },
   "contact": {
     "address": {
       "street": "342 Cove View Lane",
@@ -60,10 +75,15 @@
       "googleplus":""
     }
   },
-  "logoImage":""
+  "logoImage":"data/TrackImages/CoveViewSpeedwayLogo.png"
 },
 {
   "name": "Blairsville Speedway",
+    "trackDetails":{
+    "type":"Oval",
+    "length":"1/5 Mile",
+    "surface":"Dirt / Clay"
+  },
   "contact": {
     "address": {
       "street": "5023 Route 217 North",
@@ -81,10 +101,15 @@
       "googleplus":""
     }
   },
-  "logoImage":""
+  "logoImage":"data/TrackImages/BlairsvilleSpeedwayLogo.png"
 },
 {
   "name": "Selinsgove Speedway",
+    "trackDetails":{
+    "type":"Oval",
+    "length":"1/5 Mile",
+    "surface":"Dirt / Clay"
+  },
   "contact": {
     "address": {
       "street": "47 Sand Hill Rd",
@@ -102,10 +127,15 @@
       "googleplus":""
     }
   },
-  "logoImage":""
+  "logoImage":"data/TrackImages/SelinsgroveSpeedwayLogo.png"
 },
 {
   "name": "Race-1 Speedway",
+    "trackDetails":{
+    "type":"Oval",
+    "length":"1/8 Mile",
+    "surface":"Dirt / Clay"
+  },
   "contact": {
     "address": {
       "street": "1 Fox Farm Road",
@@ -127,6 +157,11 @@
 },
 {
   "name": "Goodhope Speedway",
+    "trackDetails":{
+    "type":"Oval",
+    "length":"1/6 Mile",
+    "surface":"Dirt / Clay"
+  },
   "contact": {
     "address": {
       "street": "2650 Columbiana Rd",
@@ -148,6 +183,11 @@
 },
 {
   "name": "Stateline Speedway",
+    "trackDetails":{
+    "type":"Oval",
+    "length":"1/8 Mile",
+    "surface":"Dirt / Clay"
+  },
   "contact": {
     "address": {
       "street": "4150 Kortwright Rd",
@@ -165,10 +205,15 @@
       "googleplus":""
     }
   },
-  "logoImage":""
+  "logoImage":"data/TrackImages/StatelineSpeedwayLogo.png"
 },
 {
   "name": "Slippery Rock Raceway",
+    "trackDetails":{
+    "type":"Oval",
+    "length":"1/8 Mile",
+    "surface":"Dirt / Clay"
+  },
   "contact": {
     "address": {
       "street": "Cemetary Rd",
@@ -190,6 +235,11 @@
 },
 {
   "name": "Snydersville Raceway",
+    "trackDetails":{
+    "type":"Oval",
+    "length":"1/8 Mile",
+    "surface":"Dirt / Clay"
+  },
   "contact": {
     "address": {
       "street": "2274 Storm Road",
@@ -211,6 +261,11 @@
 },
 {
   "name": "Penns Creek Raceway Park",
+    "trackDetails":{
+    "type":"Oval",
+    "length":"1/5 Mile",
+    "surface":"Dirt / Clay"
+  },
   "contact": {
     "address": {
       "street": "1210 Mountain Road",
@@ -232,6 +287,11 @@
 },
 {
   "name": "Shellhammers Speedway",
+    "trackDetails":{
+    "type":"Oval",
+    "length":"1/8 Mile",
+    "surface":"Dirt / Clay"
+  },
   "contact": {
     "address": {
       "street": "1072 Mohrsville Rd",
@@ -249,10 +309,15 @@
       "googleplus":""
     }
   },
-  "logoImage":""
+  "logoImage":"data/TrackImages/ShellhammersSpeedwayLogo.png"
 },
 {
   "name": "Greenwood Valley Action Tracks",
+    "trackDetails":{
+    "type":"Oval",
+    "length":"1/5 Mile",
+    "surface":"Dirt / Clay"
+  },
   "contact": {
     "address": {
       "street": "179 Bottom Rd",
@@ -274,6 +339,11 @@
 },
 {
   "name": "Naugle Speedway",
+    "trackDetails":{
+    "type":"Oval",
+    "length":"1/8 Mile",
+    "surface":"Dirt / Clay"
+  },
   "contact": {
     "address": {
       "street": "238 Pickens Road",
@@ -291,10 +361,15 @@
       "googleplus":""
     }
   },
-  "logoImage":""
+  "logoImage":"data/TrackImages/NaugleSpeedwayLogo.png"
 },
 {
   "name": "Eriez Speedway",
+    "trackDetails":{
+    "type":"Oval",
+    "length":"3/8 Mile",
+    "surface":"Dirt / Clay"
+  },
   "contact": {
     "address": {
       "street": "9821 Sampson Rd",
@@ -312,6 +387,6 @@
       "googleplus":""
     }
   },
-  "logoImage":""
+  "logoImage":"data/TrackImages/EriezSpeedwayLogo.jpg"
 }
 ]
