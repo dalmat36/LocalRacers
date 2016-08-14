@@ -54,3 +54,13 @@
 }
 .main{background-color: dimgray;}
 .card-row-title{font-size: 2em;}
+
+.page-header{margin: 16px 0px;}
+.page-header h1{background-color: white; padding-top: 16px; padding-bottom: 16px;}
+
+.main-inner{padding: 0px;}
+
+.header-logo img{margin: 0px;}
+.header-logo span{font-size: 26px; font-weight: 400; margin: 0px;}
+
+.header-content .nav li a { font-size: 18px;}
