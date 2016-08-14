@@ -23,7 +23,7 @@
       "googleplus":""
     }
   },
-  "logoImage":"data/TrackImages/RedRockRacwaysLogo.png"
+  "logoImage":"data/TrackImages/RedrockRacewaysLogo.png"
 },
 {
   "name": "Flat Run Speedway",
@@ -127,7 +127,7 @@
       "googleplus":""
     }
   },
-  "logoImage":"data/TrackImages/SelinsgroveSpeedwayLogo.png"
+  "logoImage":"data/TrackImages/SelinsgroveSpeedwayLogo.jpg"
 },
 {
   "name": "Race-1 Speedway",
@@ -153,7 +153,7 @@
       "googleplus":""
     }
   },
-  "logoImage":""
+  "logoImage":"data/TrackImages/RaceOneSpeedwayLogo.jpg"
 },
 {
   "name": "Goodhope Speedway",
@@ -179,7 +179,7 @@
       "googleplus":""
     }
   },
-  "logoImage":""
+  "logoImage":"data/TrackImages/GoodhopeSpeedwayLogo.png"
 },
 {
   "name": "Stateline Speedway",
@@ -231,7 +231,7 @@
       "googleplus":""
     }
   },
-  "logoImage":""
+  "logoImage":"data/TrackImages/SlipperyRockRacewayLogo.jpg"
 },
 {
   "name": "Snydersville Raceway",
@@ -257,7 +257,7 @@
       "googleplus":""
     }
   },
-  "logoImage":""
+  "logoImage":"data/TrackImages/SyndersvilleRacewayLogo.png"
 },
 {
   "name": "Penns Creek Raceway Park",
@@ -309,7 +309,7 @@
       "googleplus":""
     }
   },
-  "logoImage":"data/TrackImages/ShellhammersSpeedwayLogo.png"
+  "logoImage":"data/TrackImages/ShellhammersSpeedwayLogo.jpg"
 },
 {
   "name": "Greenwood Valley Action Tracks",
@@ -335,7 +335,7 @@
       "googleplus":""
     }
   },
-  "logoImage":""
+  "logoImage":"data/TrackImages/GreenwoodValleyActionTrackLogo.PNG"
 },
 {
   "name": "Naugle Speedway",

@@ -8,3 +8,5 @@
 height:100%}
 
 body{background-color: lightgray;}
+
+.card-row-content button{width: 100%; margin-bottom: 5px;}
