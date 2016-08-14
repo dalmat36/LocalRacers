@@ -201,8 +201,8 @@
                                     <div class="card-row-body">
                                         <h2 class="card-row-title text-center"><a href="listing-detail.html">{{track.name}}</a></h2>
                                         <div class="card-row-content">
-                                            <a href="#" class="btn btn-primary btn-lg btn-block"><i class="fa fa-map-marker" aria-hidden="true"></i> Get Directions</a>
-                                            <a ng-href="{{track.contact.website}}" class="btn btn-primary btn-lg btn-block"><i class="fa fa-reply" aria-hidden="true"></i> Visit Website</a>
+                                            <a ng-href="https://www.google.com/maps?q={{track.trackDetails.gps.lat}},{{track.trackDetails.gps.lon}}" target="_blank" class="btn btn-primary btn-lg btn-block"><i class="fa fa-map-marker" aria-hidden="true"></i> Get Directions</a>
+                                            <a ng-href="{{track.contact.website}}" target="_blank" class="btn btn-primary btn-lg btn-block"><i class="fa fa-reply" aria-hidden="true"></i> Visit Website</a>
                                         </div>
                                         <!-- /.card-row-content -->
                                     </div>

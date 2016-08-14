@@ -1,392 +1,452 @@
 [
   {
-  "name": "Red Rock Raceway",
-  "trackDetails":{
-    "type":"Oval",
-    "length":"1/8 Mile",
-    "surface":"Dirt / Clay"
-  },
-  "contact": {
-    "address": {
-      "street": "555 Deichland Road",
-      "city": "Claysburg",
-      "state": "PA",
-      "zip": "16625"
+    "name": "Red Rock Raceway",
+    "trackDetails": {
+      "type": "Oval",
+      "length": "1/8 Mile",
+      "surface": "Dirt / Clay",
+      "gps": {
+        "lat": 40.250382,
+        "lon": -78.565072
+      }
     },
-    "contactName":"Troy Aikey",
-    "phone": "814-285-2077",
-    "email": "",
-    "website": "http://www.redrockraceways.com/",
-    "social":{
-      "facebook":"https://www.facebook.com/Red-Rock-Raceways-215083415336098/",
-      "twitter":"",
-      "googleplus":""
-    }
-  },
-  "logoImage":"data/TrackImages/RedrockRacewaysLogo.png"
-},
-{
-  "name": "Flat Run Speedway",
-    "trackDetails":{
-    "type":"Oval",
-    "length":"1/5 Mile",
-    "surface":"Dirt / Clay"
-  },
-  "contact": {
-    "address": {
-      "street": "220 otter lane",
-      "city": "Morrisdale",
-      "state": "PA",
-      "zip": "16858"
+    "contact": {
+      "address": {
+        "street": "555 Deichland Road",
+        "city": "Claysburg",
+        "state": "PA",
+        "zip": "16625"
+      },
+      "contactName": "Troy Aikey",
+      "phone": "814-285-2077",
+      "email": "",
+      "website": "http://www.redrockraceways.com/",
+      "social": {
+        "facebook": "https://www.facebook.com/Red-Rock-Raceways-215083415336098/",
+        "twitter": "",
+        "googleplus": ""
+      }
     },
-    "contactName":"",
-    "phone": "814-251-4378",
-    "email": "krtracer57@hotmail.com",
-    "website": "http://flatrunspeedway.weebly.com/",
-    "social":{
-      "facebook":"https://www.facebook.com/flat.speedway/",
-      "twitter":"",
-      "googleplus":""
-    }
+    "logoImage": "data/TrackImages/RedrockRacewaysLogo.png"
   },
-  "logoImage":"data/TrackImages/FlatRunSpeedwayLogo.png"
-},
-{
-  "name": "Cove View Speedway",
-    "trackDetails":{
-    "type":"Oval",
-    "length":"1/8 Mile",
-    "surface":"Dirt / Clay"
-  },
-  "contact": {
-    "address": {
-      "street": "342 Cove View Lane",
-      "city": "Warfordsburg",
-      "state": "PA",
-      "zip": "17267"
+  {
+    "name": "Flat Run Speedway",
+    "trackDetails": {
+      "type": "Oval",
+      "length": "1/5 Mile",
+      "surface": "Dirt / Clay",
+      "gps": {
+        "lat": 40.979860,
+        "lon": -78.189636
+      }
     },
-    "contactName":"Mark A. Palmer",
-    "phone": "717-294-6568",
-    "email": "KartCoveView@yahoo.com",
-    "website": "http://coveviewspeedway.com/",
-    "social":{
-      "facebook":"https://www.facebook.com/CoveViewSpeedway/",
-      "twitter":"",
-      "googleplus":""
-    }
-  },
-  "logoImage":"data/TrackImages/CoveViewSpeedwayLogo.png"
-},
-{
-  "name": "Blairsville Speedway",
-    "trackDetails":{
-    "type":"Oval",
-    "length":"1/5 Mile",
-    "surface":"Dirt / Clay"
-  },
-  "contact": {
-    "address": {
-      "street": "5023 Route 217 North",
-      "city": "Blairsville",
-      "state": "PA",
-      "zip": "15717"
+    "contact": {
+      "address": {
+        "street": "220 otter lane",
+        "city": "Morrisdale",
+        "state": "PA",
+        "zip": "16858"
+      },
+      "contactName": "",
+      "phone": "814-251-4378",
+      "email": "krtracer57@hotmail.com",
+      "website": "http://flatrunspeedway.weebly.com/",
+      "social": {
+        "facebook": "https://www.facebook.com/flat.speedway/",
+        "twitter": "",
+        "googleplus": ""
+      }
     },
-    "contactName":"Mark A. Palmer",
-    "phone": "412-551-1400",
-    "email": "pm@petemillermotors.com",
-    "website": "http://www.blairsvillespeedway.com/",
-    "social":{
-      "facebook":"https://www.facebook.com/Blairsville-Speedway-135987913191950/",
-      "twitter":"",
-      "googleplus":""
-    }
+    "logoImage": "data/TrackImages/FlatRunSpeedwayLogo.png"
   },
-  "logoImage":"data/TrackImages/BlairsvilleSpeedwayLogo.png"
-},
-{
-  "name": "Selinsgove Speedway",
-    "trackDetails":{
-    "type":"Oval",
-    "length":"1/5 Mile",
-    "surface":"Dirt / Clay"
-  },
-  "contact": {
-    "address": {
-      "street": "47 Sand Hill Rd",
-      "city": "Selinsgrove",
-      "state": "PA",
-      "zip": "17870"
+  {
+    "name": "Cove View Speedway",
+    "trackDetails": {
+      "type": "Oval",
+      "length": "1/8 Mile",
+      "surface": "Dirt / Clay",
+      "gps": {
+        "lat": 39.788771,
+        "lon": -78.1802071
+      }
     },
-    "contactName":"",
-    "phone": "570-374-2266",
-    "email": "promoter@SelinsgroveSpeedway.com",
-    "website": "http://www.selinsgrovespeedway.com/",
-    "social":{
-      "facebook":"https://www.facebook.com/Selinsgrove-Speedway-198833163496169/",
-      "twitter":"https://twitter.com/RaceSelinsgrove",
-      "googleplus":""
-    }
-  },
-  "logoImage":"data/TrackImages/SelinsgroveSpeedwayLogo.jpg"
-},
-{
-  "name": "Race-1 Speedway",
-    "trackDetails":{
-    "type":"Oval",
-    "length":"1/8 Mile",
-    "surface":"Dirt / Clay"
-  },
-  "contact": {
-    "address": {
-      "street": "1 Fox Farm Road",
-      "city": "Dubois",
-      "state": "PA",
-      "zip": "15801"
+    "contact": {
+      "address": {
+        "street": "342 Cove View Lane",
+        "city": "Warfordsburg",
+        "state": "PA",
+        "zip": "17267"
+      },
+      "contactName": "Mark A. Palmer",
+      "phone": "717-294-6568",
+      "email": "KartCoveView@yahoo.com",
+      "website": "http://coveviewspeedway.com/",
+      "social": {
+        "facebook": "https://www.facebook.com/CoveViewSpeedway/",
+        "twitter": "",
+        "googleplus": ""
+      }
     },
-    "contactName":"",
-    "phone": "814-590-4139",
-    "email": "Race-1@comcast.net",
-    "website": "http://www.race1info.com/",
-    "social":{
-      "facebook":"",
-      "twitter":"",
-      "googleplus":""
-    }
+    "logoImage": "data/TrackImages/CoveViewSpeedwayLogo.png"
   },
-  "logoImage":"data/TrackImages/RaceOneSpeedwayLogo.jpg"
-},
-{
-  "name": "Goodhope Speedway",
-    "trackDetails":{
-    "type":"Oval",
-    "length":"1/6 Mile",
-    "surface":"Dirt / Clay"
-  },
-  "contact": {
-    "address": {
-      "street": "2650 Columbiana Rd",
-      "city": "New Springfield",
-      "state": "PA",
-      "zip": "44443"
+  {
+    "name": "Blairsville Speedway",
+    "trackDetails": {
+      "type": "Oval",
+      "length": "1/5 Mile",
+      "surface": "Dirt / Clay",
+      "gps": {
+        "lat": 40.491030,
+        "lon": -79.270627
+      }
     },
-    "contactName":"Dave Rutana",
-    "phone": "814-590-4139",
-    "email": "dwrutana@msn.com",
-    "website": "http://www.goodhopespeedway.com/",
-    "social":{
-      "facebook":"https://www.facebook.com/GoodhopeSpeedway/",
-      "twitter":"",
-      "googleplus":""
-    }
-  },
-  "logoImage":"data/TrackImages/GoodhopeSpeedwayLogo.png"
-},
-{
-  "name": "Stateline Speedway",
-    "trackDetails":{
-    "type":"Oval",
-    "length":"1/8 Mile",
-    "surface":"Dirt / Clay"
-  },
-  "contact": {
-    "address": {
-      "street": "4150 Kortwright Rd",
-      "city": "Jamestown",
-      "state": "NY",
-      "zip": "14701"
+    "contact": {
+      "address": {
+        "street": "5023 Route 217 North",
+        "city": "Blairsville",
+        "state": "PA",
+        "zip": "15717"
+      },
+      "contactName": "Mark A. Palmer",
+      "phone": "412-551-1400",
+      "email": "pm@petemillermotors.com",
+      "website": "http://www.blairsvillespeedway.com/",
+      "social": {
+        "facebook": "https://www.facebook.com/Blairsville-Speedway-135987913191950/",
+        "twitter": "",
+        "googleplus": ""
+      }
     },
-    "contactName":"",
-    "phone": "(716) 720-2403",
-    "email": "statelinemotorsportsparkinc@gmail.com",
-    "website": "http://www.newstatelinespeedway.com/",
-    "social":{
-      "facebook":"https://www.facebook.com/newstatelinespeedwaybustiNY/",
-      "twitter":"",
-      "googleplus":""
-    }
+    "logoImage": "data/TrackImages/BlairsvilleSpeedwayLogo.png"
   },
-  "logoImage":"data/TrackImages/StatelineSpeedwayLogo.png"
-},
-{
-  "name": "Slippery Rock Raceway",
-    "trackDetails":{
-    "type":"Oval",
-    "length":"1/8 Mile",
-    "surface":"Dirt / Clay"
-  },
-  "contact": {
-    "address": {
-      "street": "Cemetary Rd",
-      "city": "Slippery Rock",
-      "state": "PA",
-      "zip": "16057"
+  {
+    "name": "Selinsgove Speedway",
+    "trackDetails": {
+      "type": "Oval",
+      "length": "1/5 Mile",
+      "surface": "Dirt / Clay",
+      "gps": {
+        "lat": 40.800942,
+        "lon": -78.056333
+      }
     },
-    "contactName":"Mike McFeaters",
-    "phone": "724-794-4971",
-    "email": "srraceway@yahoo.com",
-    "website": "http://www.slipperrockracewayinc.com/",
-    "social":{
-      "facebook":"https://www.facebook.com/Slipperyrockracewayinc/",
-      "twitter":"",
-      "googleplus":""
-    }
-  },
-  "logoImage":"data/TrackImages/SlipperyRockRacewayLogo.jpg"
-},
-{
-  "name": "Snydersville Raceway",
-    "trackDetails":{
-    "type":"Oval",
-    "length":"1/8 Mile",
-    "surface":"Dirt / Clay"
-  },
-  "contact": {
-    "address": {
-      "street": "2274 Storm Road",
-      "city": "Stroudsburg",
-      "state": "PA",
-      "zip": "18360"
+    "contact": {
+      "address": {
+        "street": "47 Sand Hill Rd",
+        "city": "Selinsgrove",
+        "state": "PA",
+        "zip": "17870"
+      },
+      "contactName": "",
+      "phone": "570-374-2266",
+      "email": "promoter@SelinsgroveSpeedway.com",
+      "website": "http://www.selinsgrovespeedway.com/",
+      "social": {
+        "facebook": "https://www.facebook.com/Selinsgrove-Speedway-198833163496169/",
+        "twitter": "https://twitter.com/RaceSelinsgrove",
+        "googleplus": ""
+      }
     },
-    "contactName":"",
-    "phone": "610-381-3787",
-    "email": "syndersvilleraceway@yahoo.com",
-    "website": "http://www.snydersvilleraceway.com/",
-    "social":{
-      "facebook":"https://www.facebook.com/svilleraceway/",
-      "twitter":"https://twitter.com/svilleraceway",
-      "googleplus":""
-    }
+    "logoImage": "data/TrackImages/SelinsgroveSpeedwayLogo.jpg"
   },
-  "logoImage":"data/TrackImages/SyndersvilleRacewayLogo.png"
-},
-{
-  "name": "Penns Creek Raceway Park",
-    "trackDetails":{
-    "type":"Oval",
-    "length":"1/5 Mile",
-    "surface":"Dirt / Clay"
-  },
-  "contact": {
-    "address": {
-      "street": "1210 Mountain Road",
-      "city": "Middleburg",
-      "state": "PA",
-      "zip": "17842"
+  {
+    "name": "Race-1 Speedway",
+    "trackDetails": {
+      "type": "Oval",
+      "length": "1/8 Mile",
+      "surface": "Dirt / Clay",
+      "gps": {
+        "lat": 41.078876,
+        "lon": -78.723940
+      }
     },
-    "contactName":"",
-    "phone": "570-556-7462",
-    "email": "karter8@earthlink.net",
-    "website": "http://www.pennscreekracewaypark.com/",
-    "social":{
-      "facebook":"https://www.facebook.com/pennscreek.racewaypark",
-      "twitter":"",
-      "googleplus":""
-    }
-  },
-  "logoImage":""
-},
-{
-  "name": "Shellhammers Speedway",
-    "trackDetails":{
-    "type":"Oval",
-    "length":"1/8 Mile",
-    "surface":"Dirt / Clay"
-  },
-  "contact": {
-    "address": {
-      "street": "1072 Mohrsville Rd",
-      "city": "Shoemakersville",
-      "state": "PA",
-      "zip": "19555"
+    "contact": {
+      "address": {
+        "street": "1 Fox Farm Road",
+        "city": "Dubois",
+        "state": "PA",
+        "zip": "15801"
+      },
+      "contactName": "",
+      "phone": "814-590-4139",
+      "email": "Race-1@comcast.net",
+      "website": "http://www.race1info.com/",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "googleplus": ""
+      }
     },
-    "contactName":"",
-    "phone": "610-926-1929",
-    "email": "msgokart1@aol.com",
-    "website": "http://www.shellhammerspeedway.com/",
-    "social":{
-      "facebook":"https://www.facebook.com/pennscreek.racewaypark",
-      "twitter":"",
-      "googleplus":""
-    }
+    "logoImage": "data/TrackImages/RaceOneSpeedwayLogo.jpg"
   },
-  "logoImage":"data/TrackImages/ShellhammersSpeedwayLogo.jpg"
-},
-{
-  "name": "Greenwood Valley Action Tracks",
-    "trackDetails":{
-    "type":"Oval",
-    "length":"1/5 Mile",
-    "surface":"Dirt / Clay"
-  },
-  "contact": {
-    "address": {
-      "street": "179 Bottom Rd",
-      "city": "Orangeville",
-      "state": "PA",
-      "zip": "17859"
+  {
+    "name": "Goodhope Speedway",
+    "trackDetails": {
+      "type": "Oval",
+      "length": "1/6 Mile",
+      "surface": "Dirt / Clay",
+      "gps": {
+        "lat": 40.921435,
+        "lon": -80.601843
+      }
     },
-    "contactName":"",
-    "phone": "570-458-5142",
-    "email": "info@gvat4g.com",
-    "website": "http://www.greenwoodvalleyactiontracks.com/",
-    "social":{
-      "facebook":"https://www.facebook.com/Greenwood-Valley-Action-Tracks-173451222692869/",
-      "twitter":"",
-      "googleplus":""
-    }
-  },
-  "logoImage":"data/TrackImages/GreenwoodValleyActionTrackLogo.PNG"
-},
-{
-  "name": "Naugle Speedway",
-    "trackDetails":{
-    "type":"Oval",
-    "length":"1/8 Mile",
-    "surface":"Dirt / Clay"
-  },
-  "contact": {
-    "address": {
-      "street": "238 Pickens Road",
-      "city": "Aliquippa",
-      "state": "PA",
-      "zip": "15001"
+    "contact": {
+      "address": {
+        "street": "2650 Columbiana Rd",
+        "city": "New Springfield",
+        "state": "PA",
+        "zip": "44443"
+      },
+      "contactName": "Dave Rutana",
+      "phone": "814-590-4139",
+      "email": "dwrutana@msn.com",
+      "website": "http://www.goodhopespeedway.com/",
+      "social": {
+        "facebook": "https://www.facebook.com/GoodhopeSpeedway/",
+        "twitter": "",
+        "googleplus": ""
+      }
     },
-    "contactName":"Ed Naugle",
-    "phone": "724-869-3359",
-    "email": "edwardnaugle@aol.com",
-    "website": "http://www.nauglespeedway.com/",
-    "social":{
-      "facebook":"https://www.facebook.com/pages/Naugle-Speedway/325119114208608",
-      "twitter":"",
-      "googleplus":""
-    }
+    "logoImage": "data/TrackImages/GoodhopeSpeedwayLogo.png"
   },
-  "logoImage":"data/TrackImages/NaugleSpeedwayLogo.png"
-},
-{
-  "name": "Eriez Speedway",
-    "trackDetails":{
-    "type":"Oval",
-    "length":"3/8 Mile",
-    "surface":"Dirt / Clay"
-  },
-  "contact": {
-    "address": {
-      "street": "9821 Sampson Rd",
-      "city": "Erie",
-      "state": "PA",
-      "zip": "16509"
+  {
+    "name": "Stateline Speedway",
+    "trackDetails": {
+      "type": "Oval",
+      "length": "1/3 Mile",
+      "surface": "Dirt / Clay",
+      "gps": {
+        "lat": 42.0061034,
+        "lon": -79.3290567
+      }
     },
-    "contactName":"",
-    "phone": "814-434-4370",
-    "email": "",
-    "website": "http://eriez-speedway.com/",
-    "social":{
-      "facebook":"https://www.facebook.com/EriezSpeedway/",
-      "twitter":"https://twitter.com/eriezspeedway1",
-      "googleplus":""
-    }
+    "contact": {
+      "address": {
+        "street": "4150 Kortwright Rd",
+        "city": "Jamestown",
+        "state": "NY",
+        "zip": "14701"
+      },
+      "contactName": "",
+      "phone": "(716) 720-2403",
+      "email": "statelinemotorsportsparkinc@gmail.com",
+      "website": "http://www.newstatelinespeedway.com/",
+      "social": {
+        "facebook": "https://www.facebook.com/newstatelinespeedwaybustiNY/",
+        "twitter": "",
+        "googleplus": ""
+      }
+    },
+    "logoImage": "data/TrackImages/StatelineSpeedwayLogo.png"
   },
-  "logoImage":"data/TrackImages/EriezSpeedwayLogo.jpg"
-}
+  {
+    "name": "Slippery Rock Raceway",
+    "trackDetails": {
+      "type": "Oval",
+      "length": "1/8 Mile",
+      "surface": "Dirt / Clay",
+      "gps": {
+        "lat": 41.0730127,
+        "lon": -80.0463592
+      }
+    },
+    "contact": {
+      "address": {
+        "street": "Cemetary Rd",
+        "city": "Slippery Rock",
+        "state": "PA",
+        "zip": "16057"
+      },
+      "contactName": "Mike McFeaters",
+      "phone": "724-794-4971",
+      "email": "srraceway@yahoo.com",
+      "website": "http://www.slipperrockracewayinc.com/",
+      "social": {
+        "facebook": "https://www.facebook.com/Slipperyrockracewayinc/",
+        "twitter": "",
+        "googleplus": ""
+      }
+    },
+    "logoImage": "data/TrackImages/SlipperyRockRacewayLogo.jpg"
+  },
+  {
+    "name": "Snydersville Raceway",
+    "trackDetails": {
+      "type": "Oval",
+      "length": "1/8 Mile",
+      "surface": "Dirt / Clay",
+      "gps": {
+        "lat": 40.9684679,
+        "lon": -75.2785429
+      }
+    },
+    "contact": {
+      "address": {
+        "street": "2274 Storm Road",
+        "city": "Stroudsburg",
+        "state": "PA",
+        "zip": "18360"
+      },
+      "contactName": "",
+      "phone": "610-381-3787",
+      "email": "syndersvilleraceway@yahoo.com",
+      "website": "http://www.snydersvilleraceway.com/",
+      "social": {
+        "facebook": "https://www.facebook.com/svilleraceway/",
+        "twitter": "https://twitter.com/svilleraceway",
+        "googleplus": ""
+      }
+    },
+    "logoImage": "data/TrackImages/SyndersvilleRacewayLogo.png"
+  },
+  {
+    "name": "Penns Creek Raceway Park",
+    "trackDetails": {
+      "type": "Oval",
+      "length": "1/5 Mile",
+      "surface": "Dirt / Clay",
+      "gps": {
+        "lat": 40.864484,
+        "lon": -77.0695537
+      }
+    },
+    "contact": {
+      "address": {
+        "street": "1210 Mountain Road",
+        "city": "Middleburg",
+        "state": "PA",
+        "zip": "17842"
+      },
+      "contactName": "",
+      "phone": "570-556-7462",
+      "email": "karter8@earthlink.net",
+      "website": "http://www.pennscreekracewaypark.com/",
+      "social": {
+        "facebook": "https://www.facebook.com/pennscreek.racewaypark",
+        "twitter": "",
+        "googleplus": ""
+      }
+    },
+    "logoImage": ""
+  },
+  {
+    "name": "Shellhammers Speedway",
+    "trackDetails": {
+      "type": "Oval",
+      "length": "1/8 Mile",
+      "surface": "Dirt / Clay",
+      "gps": {
+        "lat": 40.4638206,
+        "lon": -75.974189
+      }
+    },
+    "contact": {
+      "address": {
+        "street": "1072 Mohrsville Rd",
+        "city": "Shoemakersville",
+        "state": "PA",
+        "zip": "19555"
+      },
+      "contactName": "",
+      "phone": "610-926-1929",
+      "email": "msgokart1@aol.com",
+      "website": "http://www.shellhammerspeedway.com/",
+      "social": {
+        "facebook": "https://www.facebook.com/pennscreek.racewaypark",
+        "twitter": "",
+        "googleplus": ""
+      }
+    },
+    "logoImage": "data/TrackImages/ShellhammersSpeedwayLogo.jpg"
+  },
+  {
+    "name": "Greenwood Valley Action Tracks",
+    "trackDetails": {
+      "type": "Oval",
+      "length": "1/5 Mile",
+      "surface": "Dirt / Clay",
+      "gps": {
+        "lat": 41.1204761,
+        "lon": -76.4629906
+      }
+    },
+    "contact": {
+      "address": {
+        "street": "179 Bottom Rd",
+        "city": "Orangeville",
+        "state": "PA",
+        "zip": "17859"
+      },
+      "contactName": "",
+      "phone": "570-458-5142",
+      "email": "info@gvat4g.com",
+      "website": "http://www.greenwoodvalleyactiontracks.com/",
+      "social": {
+        "facebook": "https://www.facebook.com/Greenwood-Valley-Action-Tracks-173451222692869/",
+        "twitter": "",
+        "googleplus": ""
+      }
+    },
+    "logoImage": "data/TrackImages/GreenwoodValleyActionTrackLogo.PNG"
+  },
+  {
+    "name": "Naugle Speedway",
+    "trackDetails": {
+      "type": "Oval",
+      "length": "1/8 Mile",
+      "surface": "Dirt / Clay",
+      "gps": {
+        "lat": 40.5372676,
+        "lon": -80.2807117
+      }
+    },
+    "contact": {
+      "address": {
+        "street": "238 Pickens Road",
+        "city": "Aliquippa",
+        "state": "PA",
+        "zip": "15001"
+      },
+      "contactName": "Ed Naugle",
+      "phone": "724-869-3359",
+      "email": "edwardnaugle@aol.com",
+      "website": "http://www.nauglespeedway.com/",
+      "social": {
+        "facebook": "https://www.facebook.com/pages/Naugle-Speedway/325119114208608",
+        "twitter": "",
+        "googleplus": ""
+      }
+    },
+    "logoImage": "data/TrackImages/NaugleSpeedwayLogo.png"
+  },
+  {
+    "name": "Eriez Speedway",
+    "trackDetails": {
+      "type": "Oval",
+      "length": "3/8 Mile",
+      "surface": "Dirt / Clay",
+      "gps": {
+        "lat": 42.052385,
+        "lon": -79.9690181
+      }
+    },
+    "contact": {
+      "address": {
+        "street": "9821 Sampson Rd",
+        "city": "Erie",
+        "state": "PA",
+        "zip": "16509"
+      },
+      "contactName": "",
+      "phone": "814-434-4370",
+      "email": "",
+      "website": "http://eriez-speedway.com/",
+      "social": {
+        "facebook": "https://www.facebook.com/EriezSpeedway/",
+        "twitter": "https://twitter.com/eriezspeedway1",
+        "googleplus": ""
+      }
+    },
+    "logoImage": "data/TrackImages/EriezSpeedwayLogo.jpg"
+  }
 ]
