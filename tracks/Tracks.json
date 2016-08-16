@@ -27,7 +27,7 @@
         "googleplus": ""
       }
     },
-    "logoImage": "data/TrackImages/RedrockRacewaysLogo.png"
+    "logoImage": "TrackImages/RedrockRacewaysLogo.png"
   },
   {
     "name": "Flat Run Speedway",
@@ -57,7 +57,7 @@
         "googleplus": ""
       }
     },
-    "logoImage": "data/TrackImages/FlatRunSpeedwayLogo.png"
+    "logoImage": "TrackImages/FlatRunSpeedwayLogo.png"
   },
   {
     "name": "Cove View Speedway",
@@ -87,7 +87,7 @@
         "googleplus": ""
       }
     },
-    "logoImage": "data/TrackImages/CoveViewSpeedwayLogo.png"
+    "logoImage": "TrackImages/CoveViewSpeedwayLogo.png"
   },
   {
     "name": "Blairsville Speedway",
@@ -117,7 +117,7 @@
         "googleplus": ""
       }
     },
-    "logoImage": "data/TrackImages/BlairsvilleSpeedwayLogo.png"
+    "logoImage": "TrackImages/BlairsvilleSpeedwayLogo.png"
   },
   {
     "name": "Selinsgove Speedway",
@@ -147,7 +147,7 @@
         "googleplus": ""
       }
     },
-    "logoImage": "data/TrackImages/SelinsgroveSpeedwayLogo.jpg"
+    "logoImage": "TrackImages/SelinsgroveSpeedwayLogo.jpg"
   },
   {
     "name": "Race-1 Speedway",
@@ -177,7 +177,7 @@
         "googleplus": ""
       }
     },
-    "logoImage": "data/TrackImages/RaceOneSpeedwayLogo.jpg"
+    "logoImage": "TrackImages/RaceOneSpeedwayLogo.jpg"
   },
   {
     "name": "Goodhope Speedway",
@@ -207,7 +207,7 @@
         "googleplus": ""
       }
     },
-    "logoImage": "data/TrackImages/GoodhopeSpeedwayLogo.png"
+    "logoImage": "TrackImages/GoodhopeSpeedwayLogo.png"
   },
   {
     "name": "Stateline Speedway",
@@ -237,7 +237,7 @@
         "googleplus": ""
       }
     },
-    "logoImage": "data/TrackImages/StatelineSpeedwayLogo.png"
+    "logoImage": "TrackImages/StatelineSpeedwayLogo.png"
   },
   {
     "name": "Slippery Rock Raceway",
@@ -267,7 +267,7 @@
         "googleplus": ""
       }
     },
-    "logoImage": "data/TrackImages/SlipperyRockRacewayLogo.jpg"
+    "logoImage": "TrackImages/SlipperyRockRacewayLogo.jpg"
   },
   {
     "name": "Snydersville Raceway",
@@ -297,7 +297,7 @@
         "googleplus": ""
       }
     },
-    "logoImage": "data/TrackImages/SyndersvilleRacewayLogo.png"
+    "logoImage": "TrackImages/SyndersvilleRacewayLogo.png"
   },
   {
     "name": "Penns Creek Raceway Park",
@@ -357,7 +357,7 @@
         "googleplus": ""
       }
     },
-    "logoImage": "data/TrackImages/ShellhammersSpeedwayLogo.jpg"
+    "logoImage": "TrackImages/ShellhammersSpeedwayLogo.jpg"
   },
   {
     "name": "Greenwood Valley Action Tracks",
@@ -387,7 +387,7 @@
         "googleplus": ""
       }
     },
-    "logoImage": "data/TrackImages/GreenwoodValleyActionTrackLogo.PNG"
+    "logoImage": "TrackImages/GreenwoodValleyActionTrackLogo.PNG"
   },
   {
     "name": "Naugle Speedway",
@@ -417,7 +417,7 @@
         "googleplus": ""
       }
     },
-    "logoImage": "data/TrackImages/NaugleSpeedwayLogo.png"
+    "logoImage": "TrackImages/NaugleSpeedwayLogo.png"
   },
   {
     "name": "Eriez Speedway",
@@ -447,6 +447,6 @@
         "googleplus": ""
       }
     },
-    "logoImage": "data/TrackImages/EriezSpeedwayLogo.jpg"
+    "logoImage": "TrackImages/EriezSpeedwayLogo.jpg"
   }
 ]
