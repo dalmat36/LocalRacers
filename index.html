@@ -67,10 +67,10 @@
 
                                 <ul class="header-nav-primary nav nav-pills collapse navbar-collapse">
                                     <li>
-                                        <a href="../index.html">Home</a>
+                                        <a href="index.html">Home</a>
                                     </li>
                                      <li>
-                                        <a href="index.html">Tracks</a>
+                                        <a href="/tracks/index.html">Tracks</a>
                                     </li>
                                 </ul>
 
@@ -95,156 +95,9 @@
         <!-- /.header -->
 
         <div class="main">
-            <div class="main-inner" data-background-image="../assets/img/MapExample1.PNG">
+            <div class="main-inner" data-background-image="/assets/img/Web-under-construction.jpeg">
                 <div class="container">
                     <div class="content">
-                        <div class="page-header">
-                            <h1>Tracks</h1>
-                        </div>
-                        <!-- /.document-title -->
-
-
-
-                        <!--                        <form class="filter" method="post" action="?">
-                            <div class="row">
-                                <div class="col-sm-12 col-md-4">
-                                    <div class="form-group">
-                                        <input type="text" placeholder="Keyword" class="form-control">
-                                    </div>
-                                    <!-- /.form-group -->
-                        <!--   </div>
-                                <!-- /.col-* -->
-
-                        <!--           <div class="col-sm-12 col-md-4">
-                                    <div class="form-group">
-                                        <select class="form-control" title="Select Location">
-                    <option>Bronx</option>
-                    <option>Brooklyn</option>
-                    <option>Manhattan</option>
-                    <option>Staten Island</option>
-                    <option>Queens</option>
-                </select>
-                                    </div>
-                                    <!-- /.form-group -->
-                        <!--      </div>
-                                <!-- /.col-* -->
-
-                        <!--             <div class="col-sm-12 col-md-4">
-                                    <div class="form-group">
-                                        <select class="form-control" title="Select Category">
-                    <option value="">Automotive</option>
-                    <option value="">Jobs</option>
-                    <option value="">Nightlife</option>
-                    <option value="">Services</option>
-                </select>
-                                    </div>
-                                    <!-- /.form-group -->
-                        <!--           </div>
-                                <!-- /.col-* -->
-                        <!--           </div>
-                            <!-- /.row -->
-
-                        <!--                <hr>
-
-                            <div class="row">
-                                <div class="col-sm-8">
-                                    <div class="filter-actions">
-                                        <a href="#"><i class="fa fa-close"></i> Reset Filter</a>
-                                        <a href="#"><i class="fa fa-save"></i> Save Search</a>
-                                    </div>
-                                    <!-- /.filter-actions -->
-                        <!--              </div>
-                                <!-- /.col-* -->
-
-                        <!--                <div class="col-sm-4">
-                                    <button type="submit" class="btn btn-primary">Redefine Search Result</button>
-                                </div>
-                                <!-- /.col-* -->
-                        <!--          </div>
-                            <!-- /.row -->
-                        <!--        </form>
-
-
-                        <h2 class="page-title">
-                            1802 results matching your query
-
-                            <form method="get" action="?" class="filter-sort">
-                                <div class="form-group">
-                                    <select title="Sort by">
-                <option name="price">Price</option>
-                <option name="rating">Rating</option>
-                <option name="title">Title</option>
-            </select>
-                                </div>
-                                <!-- /.form-group -->
-
-                        <!--  <div class="form-group">
-                                    <select title="Order">
-                <option name="ASC">Asc</option>
-                <option name="DESC">Desc</option>
-            </select>
-                                </div>
-                                <!-- /.form-group -->
-                        <!--    </form>
-                        </h2>
-                        <!-- /.page-title -->
-
-                        <div class="cards-row" ng-repeat="track in ctrl.tracks">
-                            <div class="card-row">
-                                <div class="card-row-inner">
-                                    <div class="card-row-image" data-background-image="{{track.logoImage}}">
-                                    </div>
-                                    <!-- /.card-row-image -->
-                                    <div class="card-row-body">
-                                        <h2 class="card-row-title text-center"><a href="listing-detail.html">{{track.name}}</a></h2>
-                                        <div class="card-row-content">
-                                            <a ng-href="https://www.google.com/maps?q={{track.trackDetails.gps.lat}},{{track.trackDetails.gps.lon}}" target="_blank" class="btn btn-primary btn-lg btn-block"><i class="fa fa-map-marker" aria-hidden="true"></i> Get Directions</a>
-                                            <a ng-href="{{track.contact.website}}" target="_blank" class="btn btn-primary btn-lg btn-block"><i class="fa fa-reply" aria-hidden="true"></i> Visit Website</a>
-                                        </div>
-                                        <!-- /.card-row-content -->
-                                    </div>
-                                    <div class="card-row-properties">
-                                        <dl>
-                                            <dd>Track Type</dd>
-                                            <dt>{{track.trackDetails.type}}</dt>
-
-                                            <dd>Track Surface</dd>
-                                            <dt>{{track.trackDetails.surface}}</dt>
-
-                                            <dd>Track Length</dd>
-                                            <dt>{{track.trackDetails.length}}</dt>
-
-                                            <dd>Location</dd>
-                                            <dt>{{track.contact.address.city + ", " + track.contact.address.state}}</dt>
-
-                                            <!--                                        <dd>Rating</dd>
-                                            <dt>
-                                                <div class="card-row-rating">
-                                                    <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i>                                                    <i class="fa fa-star"></i> <i class="fa fa-star"></i>
-                                                </div>
-                                                <!-- /.card-row-rating -->
-                                            <!-- </dt>-->
-                                        </dl>
-                                    </div>
-                                    <!-- /.card-row-properties -->
-                                </div>
-                                <!-- /.card-row-inner -->
-                            </div>
-                            <!-- /.card-row -->
-                        </div>
-                        <!-- /.cards-row -->
-
-
-                        <!--           <div class="pager">
-                            <ul>
-                                <li><a href="#">Prev</a></li>
-                                <li><a href="#">5</a></li>
-                                <li class="active"><a>6</a></li>
-                                <li><a href="#">7</a></li>
-                                <li><a href="#">Next</a></li>
-                            </ul>
-                        </div>-->
-                        <!-- /.pagination -->
 
 
                     </div>
