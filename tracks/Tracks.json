@@ -478,5 +478,35 @@
       }
     },
     "logoImage": "TrackImages/HunterstownSpeedwayLogo.jpg"
+  },
+      {
+    "name": "Nicholoson Speedway",
+    "trackDetails": {
+      "type": "Road Course",
+      "length": "1/4 Mile",
+      "surface": "Asphalt",
+      "gps": {
+        "lat": 39.247285,
+        "lon": -76.143779
+      }
+    },
+    "contact": {
+      "address": {
+        "street": "9836 Earl Nicholson Road",
+        "city": "Chestertown",
+        "state": "MD",
+        "zip": "21620"
+      },
+      "contactName": "John Anderson",
+      "phone": "302-535-3186",
+      "email": "johnanderson23@verizon.net",
+      "website": "http://nicholsonspeedway.com/",
+      "social": {
+        "facebook": "https://www.facebook.com/Nicholson-Speedway-Inc-116839805007217/",
+        "twitter": "",
+        "googleplus": ""
+      }
+    },
+    "logoImage": "TrackImages/NicholsonSpeedwayLogo.png"
   }
 ]
