@@ -448,5 +448,35 @@
       }
     },
     "logoImage": "TrackImages/EriezSpeedwayLogo.jpg"
+  },
+    {
+    "name": "Hunterstown Speedway",
+    "trackDetails": {
+      "type": "Oval",
+      "length": "1/5 Mile",
+      "surface": "Dirt / Clay",
+      "gps": {
+        "lat": 39.888595,
+        "lon": -77.161064
+      }
+    },
+    "contact": {
+      "address": {
+        "street": "220 Red Bridge Road",
+        "city": "Hunterstown",
+        "state": "PA",
+        "zip": "17325"
+      },
+      "contactName": "",
+      "phone": "",
+      "email": "",
+      "website": "http://www.hunterstownspeedway.com/",
+      "social": {
+        "facebook": "https://www.facebook.com/Hunterstown-Speedway-Hunterstown-Kart-Club-Inc-753050114781840/",
+        "twitter": "",
+        "googleplus": ""
+      }
+    },
+    "logoImage": "TrackImages/HunterstownSpeedwayLogo.jpg"
   }
 ]
