@@ -508,5 +508,35 @@
       }
     },
     "logoImage": "TrackImages/NicholsonSpeedwayLogo.png"
+  },
+        {
+    "name": "Stonybrook Speedway",
+    "trackDetails": {
+      "type": "Oval",
+      "length": "1/4 Mile",
+      "surface": "Dirt / Clay",
+      "gps": {
+        "lat": 40.092289,
+        "lon": -78.944059
+      }
+    },
+    "contact": {
+      "address": {
+        "street": "541 N. Club Road",
+        "city": "Stoystown",
+        "state": "PA",
+        "zip": "15563"
+      },
+      "contactName": "Bridget LaPorta",
+      "phone": "814-893-5480",
+      "email": "stonybrookspeedway@yahoo.com",
+      "website": "http://stonybrookspeedway.webs.com/",
+      "social": {
+        "facebook": "",
+        "twitter": "",
+        "googleplus": ""
+      }
+    },
+    "logoImage": "TrackImages/image-coming-soon.png"
   }
 ]
